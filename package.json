@@ -1,0 +1,28 @@
+{
+  "name": "react-native-like-button",
+  "version": "1.0.0",
+  "description": "a reactive-heart like-button for react native applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/team-oath/react-native-like-button.git"
+  },
+  "keywords": [
+    "like",
+    "button",
+    "react-native",
+    "buttons"
+  ],
+  "author": "mrblueblue",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/team-oath/react-native-like-button/issues"
+  },
+  "homepage": "https://github.com/team-oath/react-native-like-button",
+  "dependencies": {
+    "react-native": "^0.4.1"
+  }
+}
